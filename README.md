@@ -2,7 +2,7 @@
 
 A web application to provide useful tools. You can access it in https://9c-board.nine-chronicles.dev/.
 
-## Devlopment
+## Development
 
 ### Configure Environment
 
